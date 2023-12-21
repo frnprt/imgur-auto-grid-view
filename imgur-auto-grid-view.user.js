@@ -6,7 +6,7 @@
 // @match       https://imgur.com/a/*
 // @version     1.0
 // @updateURL   https://github.com/frnprt/ImgurAutoGrid-View/raw/main/imgur-auto-grid-view.user.js
-// @dowloadURL  https://github.com/frnprt/ImgurAutoGrid-View/raw/main/imgur-auto-grid-view.user.js
+// @downloadURL  https://github.com/frnprt/ImgurAutoGrid-View/raw/main/imgur-auto-grid-view.user.js
 // @author      frnprt
 // @grant       none
 // ==/UserScript==
